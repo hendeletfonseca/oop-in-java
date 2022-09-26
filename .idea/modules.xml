@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums-compositions/enums-compositions.iml" filepath="$PROJECT_DIR$/enums-compositions/enums-compositions.iml" />
       <module fileurl="file://$PROJECT_DIR$/hour-date/hour-date.iml" filepath="$PROJECT_DIR$/hour-date/hour-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-in-java.iml" filepath="$PROJECT_DIR$/oop-in-java.iml" />
     </modules>
