@@ -12,5 +12,9 @@ public class Program {
         Order order = new Order(1080, new Date(), OrderStatus.PENDING_PAYMENT);
 
         System.out.println(order);
+
+        OrderStatus os1 = OrderStatus.DELIVERED;
+
+        OrderStatus os2 = OrderStatus.valueOf("DELIVERED");
     }
 }

@@ -9,10 +9,6 @@ public class Order {
     private Date moment;
     private OrderStatus status;
 
-    public Order(){
-
-    }
-
     @Override
     public String toString() {
         return "Order{" +
