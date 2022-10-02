@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/enums-compositions/enums-compositions.iml" filepath="$PROJECT_DIR$/enums-compositions/enums-compositions.iml" />
       <module fileurl="file://$PROJECT_DIR$/hour-date/hour-date.iml" filepath="$PROJECT_DIR$/hour-date/hour-date.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-in-java.iml" filepath="$PROJECT_DIR$/oop-in-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums-compositions/post/post.iml" filepath="$PROJECT_DIR$/enums-compositions/post/post.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums-compositions/worker/worker.iml" filepath="$PROJECT_DIR$/enums-compositions/worker/worker.iml" />
     </modules>
   </component>
