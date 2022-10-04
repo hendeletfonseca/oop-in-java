@@ -5,12 +5,12 @@ import entities.Post;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class Program {
 
     public static void main(String[] args) throws ParseException {
-        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH::mm::ss");
+
+        SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
         Comment c1 = new Comment("Have a nice trip");
 
@@ -24,5 +24,7 @@ public class Program {
 
         p1.addComments(c1);
         p1.addComments(c2);
+
+        System.out.println(p1);
     }
 }

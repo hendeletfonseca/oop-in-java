@@ -11,7 +11,7 @@ public class Post {
     private String content;
     private Integer likes;
 
-    private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH::mm::ss");
+    private static final SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH::mm::ss");
 
     private List<Comment> comments = new ArrayList<>();
 
@@ -68,7 +68,7 @@ public class Post {
         sb.append('\n');
         sb.append("Comments:");
         sb.append('\n');
-        for (Comment c : comments) sb.append(c.getText());
+        for (Comment c : comments) sb.append(c.getText()).append('\n');
         return sb.toString();
     }
 }
