@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9655e8d4-0486-4898-a09d-d9bf46224cfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/inheritance/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/inheritance/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/inheritance/entities/BussinessAcount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/inheritance/entities/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oop-in-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oop-in-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/exercise1/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/exercise1/entities/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/src/exercise1/entities/OutsourcedEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance-Polymorphism/Inheritance-Polymorphism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance-Polymorphism/Inheritance-Polymorphism.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enums-compositions/last-exercise-order/last-exercise-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/enums-compositions/last-exercise-order/last-exercise-order.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enums-compositions/post/post.iml" beforeDir="false" afterPath="$PROJECT_DIR$/enums-compositions/post/post.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enums-compositions/worker/worker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/enums-compositions/worker/worker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hour-date/hour-date.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hour-date/hour-date.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +48,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.exercise1.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritance.application.Program" />
       <module name="Inheritance-Polymorphism" />
@@ -74,8 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise1.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.application.Program" />
+      <module name="Inheritance-Polymorphism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise1.application.Program" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
@@ -90,6 +92,8 @@
       <updated>1665766176590</updated>
       <workItem from="1665766181571" duration="1028000" />
       <workItem from="1665767247775" duration="9719000" />
+      <workItem from="1666222745857" duration="1126000" />
+      <workItem from="1666286039363" duration="4286000" />
     </task>
     <servers />
   </component>
